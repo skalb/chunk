@@ -29,7 +29,6 @@ body {
 }
 #header {
 	min-height: 180px;
-	padding-top: 70px;
 	width: 800px;
 }
 #contents {
@@ -48,7 +47,6 @@ body {
 	font-weight: bold;
 	font-size: 80px;
 	margin: 0px;
-	text-transform: uppercase;
 	text-rendering: optimizeLegibility;
 }
 #site-title a {
@@ -69,7 +67,6 @@ body {
 	font-size: 14px;
 	font-weight: 300;
 	margin-top: 0;
-	margin-bottom: 50px;
 	padding: 6px 10px;
 }
 #menu #header-image a {
